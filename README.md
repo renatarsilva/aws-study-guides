@@ -5,6 +5,7 @@ AWS certification study guides by @renatarsilvax.
 | Certification | Folder | Versions |
 | --- | --- | --- |
 | AWS Certified Cloud Practitioner (CLF-C02) | [`aws-clf-c02-guide`](aws-clf-c02-guide) | Light and dark (PDF, English) |
+| AWS Certified AI Practitioner (AIF-C01) | [`aws-aif-c01-guide`](aws-aif-c01-guide) | Light and dark (PDF, English) |
 
 Content based on official AWS pages (full list in the Sources section of each guide).
 
